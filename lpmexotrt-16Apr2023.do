@@ -89,7 +89,7 @@ program define lpmexotrt
 	di ""
 	di "    R2 for D: " `r2d'
 	di "R2 for Y|D=0: " `r2y'
-	di "LPM     (tv): " `lpm'  " ( " `lpmtv'   " )"
+	di "LPM     (tv): " `lpm'  " ( " `lpmtv'  " )"
 	di "PSR(2)  (tv): " `psr2' " ( " `psrtv2' " )"
 	di "PSR(3)  (tv): " `psr3' " ( " `psrtv3' " )"
 end
