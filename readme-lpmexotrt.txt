@@ -1,4 +1,4 @@
-Replication data and code for "Linear Probability Model Revisited: Why It Works and How It Should Be Specified" by Myoung-jae Lee, Goeun Lee, and Jin-young Choi (Sociological Methods & Research, 2023, forthcoming)
+Replication data and code for "Linear Probability Model Revisited: Why It Works and How It Should Be Specified" by Myoung-jae Lee, Goeun Lee, and Jin-young Choi (Sociological Methods & Research, 2023, Advance online publication, DOI: https://doi.org/10.1177/00491241231176850)
 
 
 *********! Data
