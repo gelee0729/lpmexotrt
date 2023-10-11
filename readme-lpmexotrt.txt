@@ -23,7 +23,7 @@ linc0    : Log of family income+1 in 1999 (t=0), log(inc0+1)
 
 
 *********! Code
-The code file called "lpmexotrt-16Apr2023.do" (for Stata) can replicate Table 1 (Summary Statistics) and Table 2 (Estimation Results). It includes a program called "lpmexotrt" to present the results of Table 2. Syntax, output, and example of the program are provided below.
+The code file called "lpmexotrt-16apr2023.do" (for Stata) can replicate Table 1 (Summary Statistics) and Table 2 (Estimation Results). It includes a program called "lpmexotrt" to present the results of Table 2. Syntax, output, and example of the program are provided below.
 
 Syntax : lpmexotrt Y D X
 Output : R-squared for D, R-squared for Y|D=0, LPM, PSR with q=2, PSR with q=3
