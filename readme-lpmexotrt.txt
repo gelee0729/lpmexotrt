@@ -38,5 +38,5 @@ PSR(3)  (tv): .61619899 ( 28.740882 )
 
 
 *********! References
-1. Lee, M.J. and Y.H. Tae, 2005, Analysis of labour participation behaviour of Korean women with dynamic probit and conditional logit, Oxford Bulletin of Economics and Statistics 67, 71--91. (DOI: https://doi.org/10.1111/j.1468-0084.2005.00110.x)
+1. Lee, M.J. and Y.H. Tae, 2005, Analysis of labour participation behaviour of Korean women with dynamic probit and conditional logit, Oxford Bulletin of Economics and Statistics, 67, 71--91. (DOI: https://doi.org/10.1111/j.1468-0084.2005.00110.x)
 2. Korean Labor and Income Panel Study: https://www.kli.re.kr/klips_eng/index.do
