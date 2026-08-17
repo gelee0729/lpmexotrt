@@ -3,9 +3,7 @@
 
 set more off
 clear all
-cd ""  // change directory in which lt2005sub.dta exists
-
-use lt2005sub.dta, clear
+use https://raw.githubusercontent.com/gelee0729/lpmexotrt/main/lt2005sub.dta, clear
 
 global y "work1"
 global d "work0"
@@ -20,6 +18,7 @@ global xx "$xc $xv0 $xv1"  // (X0,X1)
 
 // Syntax: lpmexotrt Y D X
 // Output: R2_D, R2_Y|D=0, LPM, PSR(2), PSR(3)
+capture program drop lpmexotrt
 program define lpmexotrt
 	version 17.0
 	syntax anything
