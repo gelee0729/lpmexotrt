@@ -1,5 +1,5 @@
 *! Myoung-jae Lee, Goeun Lee, and Jin-young Choi, "Linear Probability Model Revisited: Why It Works and How It Should Be Specified", Sociological Methods & Research, 54(1), 2025, 173--186.
-*! version 0.0.1 16apr2023
+*! version 0.0.1 17aug2026
 
 set more off
 clear all
